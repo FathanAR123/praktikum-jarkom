@@ -17,7 +17,6 @@ Setelah membuka website sebelumnya ktia akan menghentikan agar menampilkan dafta
 Disini kita akan mencari paket IP kita secara spesifik dengan menggunakan filter lalu ketik “http”. Disitu kita bisa melihat ada  paket IP utama kita yang dimana IP tersebut dihasilkan dari web yang baru saja kita buka tadi
 
 ## Lampiran
-Hasil Percobaan :
 ![Hasil Percobaan1](../assets/image/Buka%20Aplikasi.png)
 ![Hasil Percobaan2](../assets/image/Buka%20Aplikasi%202.png)
 ![Hasil Percobaan3](../assets/image/Memasuki%20Proses%20capture%20paket%20jaringan.png)
