@@ -11,7 +11,7 @@
 <img width="1920" height="1080" alt="118" src="https://github.com/user-attachments/assets/5c918d9b-ff0c-4075-b48d-ecaad9e3c22b" />
 <img width="1920" height="1080" alt="118(2)" src="https://github.com/user-attachments/assets/3b391e11-3bb0-43c9-9586-630183231430" />
 <img width="1920" height="1080" alt="html" src="https://github.com/user-attachments/assets/1192ee18-9555-4a2a-86cf-acb0e838b46e" />
-<img width="1920" height="1080" alt="HTTP Authentication" src="https://github.com/user-attachments/assets/a664c5df-9962-462f-aef1-4903a5db9ccd" />
+<img width="1919" height="978" alt="HTTP Authentication" src="https://github.com/user-attachments/assets/5c893e31-6b35-44e0-97e2-bb0d58bb85b4" />
 <img width="1920" height="1080" alt="HTTP Authentication_2" src="https://github.com/user-attachments/assets/2b408796-34a9-415d-9f4a-65b51fff442a" />
 <img width="1920" height="1080" alt="HTTP Authentication_3" src="https://github.com/user-attachments/assets/bc3eccd1-9901-4d8d-b263-82b0a0399f08" />
 
